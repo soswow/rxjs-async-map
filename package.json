@@ -1,5 +1,5 @@
 {
-  "name": "rxjs-async-map",
+  "name": "rxjs-async-map-es5",
   "version": "0.1.1",
   "description": "Map an observable using an async function with a configurable concurreny level, while preserving element order.",
   "main": "out/index.js",
@@ -13,7 +13,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/srijs/rxjs-async-map"
+    "url": "https://github.com/soswow/rxjs-async-map"
   },
   "dependencies": {
     "rxjs": "^5.5.6"
